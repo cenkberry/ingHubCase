@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "lit": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-lit": "^1.15.0"
   }
 }
